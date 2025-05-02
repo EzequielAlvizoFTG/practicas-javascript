@@ -22,7 +22,8 @@ producto5 ="Bombón helado marca helardo";
 producto6 ="Potecito de helado con confites";
 producto7 ="Pote de 1/4 KG";
 
-console.log()
+console.log("Hola, bienvenido a la heladería de la familia Heladovich");
+console.log("Los productos que tenemos son: ");
 
 dinero=prompt("Cuanto dinero tienes?");
 
